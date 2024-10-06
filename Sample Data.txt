@@ -1,0 +1,91 @@
+//Booking 1 for the property, {name:"Be Happy in Porto"}.
+
+Booking_id:12345,
+Arrival Date: 2025-03-11T14:00:00.000+10:00
+Departure date: 2025-03-13T10:00:00.000+10:00
+Client:
+{
+name: Brodie Mackrell,
+email address: BrodieMackrell@rhyta.com,
+daytime phone number: (03) 5352 6218,
+mobile number: 0453 526 218,
+postal address: 48 Mills Street DALYSTON VIC 3992, 
+home address: 48 Mills Street DALYSTON VIC 3992
+}
+depositPaid: $10,
+balance due, $20,
+balance due date: 2025-03-01T00:00:00.000+10:00
+number of guests:2,
+Guest:
+[
+{
+name: Brodie, 
+age:44
+},
+{
+name: John, 
+Age:44
+}
+]
+
+//Booking 2 for the property {name:"Be Happy in Porto"}
+
+Booking_id:12347;
+Arrival Date: 2025-11-11T14:00:00.000+11:00
+Departure date: 2025-11-14T10:00:00.000+11:00
+Client:
+{
+name: Alexander Kevin, 
+email address: AlexanderKevin@teleworm.us, 
+daytime phone number: (08) 9038 8742, 
+mobile number: 0490 388 742, 
+postal address: 81 Farrar Parade CARNAMAH WA 6517,
+home address: 81 Farrar Parade CARNAMAH WA 6517
+}
+depositPaid: $30,
+balance due:$0,
+balance due date: <NULL>
+number of guests:3,
+Guest:
+[
+{
+name: Alexander,
+age: 54
+}
+{
+name: Alexa,
+age: 50
+}
+{
+name: Siri,
+age: 15
+}
+]
+
+//Booking 3 for the property {name:"Be Happy in the Heart Of Montreal DT 1MIN to Metro"}
+
+Booking_id:12346,
+Arrival Date: 2025-04-11T14:00:00.000+10:00
+Departure date: 2025-04-12T10:00:00.000+10:00
+Client:
+{
+name: Brodie Mackrell,
+email address: BrodieMackrell@rhyta.com,
+daytime phone number: (03) 5352 6218,
+mobile number: 0453 526 218,
+postal address: 48 Mills Street DALYSTON VIC 3992,
+home address: 48 Mills Street DALYSTON VIC 3992
+}
+depositPaid: $20,
+balance due, $59,
+balance due date: 2025-04-01T00:00:00.000+10:00
+number of guests:3,
+Guest:
+[
+{name: Brodie,age:44},
+{name: John,Age:44},
+{name: John Jr, Age:10}
+]
+
+Disclaimer: Data randomly generated using https://www.fakenamegenerator.com/gen-random-au-au.php
+

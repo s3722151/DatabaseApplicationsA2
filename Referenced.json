@@ -1,0 +1,97 @@
+[
+  {
+    "_id": ObjectId("..."),  // Auto-generated ObjectId
+    "booking_id": 12345,
+    "arrival_date": ISODate("2025-03-11T14:00:00.000+10:00"),
+    "departure_date": ISODate("2025-03-13T10:00:00.000+10:00"),
+    "listing_id": "10083468",  // Reference to "Be Happy in Porto"
+    "client": {
+      "name": "Brodie Mackrell",
+      "email_address": "BrodieMackrell@rhyta.com",
+      "daytime_phone_number": "(03) 5352 6218",
+      "mobile_number": "0453 526 218",
+      "postal_address": "48 Mills Street DALYSTON VIC 3992",
+      "home_address": "48 Mills Street DALYSTON VIC 3992"
+    },
+    "deposit_paid": 10,
+    "balance_due": 20,
+    "balance_due_date": ISODate("2025-03-01T00:00:00.000+10:00"),
+    "number_of_guests": 2,
+    "guests": [
+      {
+        "name": "Brodie",
+        "age": 44
+      },
+      {
+        "name": "John",
+        "age": 44
+      }
+    ]
+  },
+  {
+    "_id": ObjectId("..."),  // Auto-generated ObjectId
+    "booking_id": 12347,
+    "arrival_date": ISODate("2025-11-11T14:00:00.000+11:00"),
+    "departure_date": ISODate("2025-11-14T10:00:00.000+11:00"),
+    "listing_id": "10083468",  // Reference to "Be Happy in Porto"
+    "client": {
+      "name": "Alexander Kevin",
+      "email_address": "AlexanderKevin@teleworm.us",
+      "daytime_phone_number": "(08) 9038 8742",
+      "mobile_number": "0490 388 742",
+      "postal_address": "81 Farrar Parade CARNAMAH WA 6517",
+      "home_address": "81 Farrar Parade CARNAMAH WA 6517"
+    },
+    "deposit_paid": 30,
+    "balance_due": 0,
+    "balance_due_date": null,
+    "number_of_guests": 3,
+    "guests": [
+      {
+        "name": "Alexander",
+        "age": 54
+      },
+      {
+        "name": "Alexa",
+        "age": 50
+      },
+      {
+        "name": "Siri",
+        "age": 15
+      }
+    ]
+  },
+  {
+    "_id": ObjectId("..."),  // Auto-generated ObjectId
+    "booking_id": 12346,
+    "arrival_date": ISODate("2025-04-11T14:00:00.000+10:00"),
+    "departure_date": ISODate("2025-04-12T10:00:00.000+10:00"),
+    "listing_id": "25937713",  // Reference to "Be Happy in the Heart Of Montreal DT 1MIN to Metro"
+    "client": {
+      "name": "Brodie Mackrell",
+      "email_address": "BrodieMackrell@rhyta.com",
+      "daytime_phone_number": "(03) 5352 6218",
+      "mobile_number": "0453 526 218",
+      "postal_address": "48 Mills Street DALYSTON VIC 3992",
+      "home_address": "48 Mills Street DALYSTON VIC 3992"
+    },
+    "deposit_paid": 20,
+    "balance_due": 59,
+    "balance_due_date": ISODate("2025-04-01T00:00:00.000+10:00"),
+    "number_of_guests": 3,
+    "guests": [
+      {
+        "name": "Brodie",
+        "age": 44
+      },
+      {
+        "name": "John",
+        "age": 44
+      },
+      {
+        "name": "John Jr",
+        "age": 10
+      }
+    ]
+  }
+]
